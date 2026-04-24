@@ -1,0 +1,28 @@
+/**
+ * file: journal_karbytes_24april2026_p1.txt
+ * type: plain-text
+ * date: 24_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+On 24_APRIL_2026 at approximately 9:30AM Pacific Standard Time, karbytes noticed that there were some errors in one of the hyperlinks in the following micro-directory web page and that web page's constituent HTML source code:
+
+micro-directory_web_page: https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_KARLINA_OBJECT_extension_pack_63/
+
+micro-directory_web_page_source_code_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/raw_github_files_directory_KARLINA_OBJECT_extension_pack_63.html
+
+At the aforementioned point in time, the previous micro-directory (i.e. KARLINA_OBJECT_extension_pack_62) has been officially closed to further changes (and is the newest karbytes content to be included in version of karbytes named karbytes2026_2). 
+
+No later than 01_MAY_2026 is when karbytes plans to bury a time capsule containing several M_DISC copies of karbytes2026_2. Details about that planned time capsule burial are available in the following web page.
+
+time_capsule_blog_post: https://karbytesforlifeblog.wordpress.com/journal_karbytes_20april2026/
+
+Rather than wait until after 11:59PM Pacific Standard Time on 30_APRIL_2026 to make changes to the canon karbytes, karbytes decided to integrate the latest "hiatus draft files" (in karbytes' "anonymous" public GitHub repository named projects under the user name @informationcrystals) into the current open-to-changes karbytes micro-directory (which is KARLINA_OBJECT_extension_pack_63). Those draft files are enumerated in the following plain-text journal entry. 
+
+hiatus_draft_files_list: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/journal_karbytes_24april2026_p0.txt
+
+Sincerely,
+karbytes
