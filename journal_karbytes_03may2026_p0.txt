@@ -1,0 +1,42 @@
+/**
+ * file: journal_karbytes_03may2026_p0.txt
+ * type: plain-text
+ * date: 24_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+I included three M_DISC copies per spindle of karbytes_refinement_[02may2026] in the time capsule mentioned in the following web page:
+
+https://karbytesforlifeblog.wordpress.com/journal_karbytes_20april2026/
+
+That time capsule was buried at the longitude-latitude Earth coordinates which appear on that web page on DAY_MONTH_YEAR.
+
+Note that karbytes_refinement_[02may2026] refers to the version of (the third M_DISC of) karbytes which was "crystalized" at 11:59PM Pacific Standard Time on 24_APRIL_2026.
+
+Note that the prior two discs are "locked" (i.e. set to remain immutable forever after being set to "locked" by karbytes).
+
+The prior two "locked" discs are as follows:
+
+DISC_0: karbytes2025_22 # finalized >25gb collection named karbytes_origins
+
+DISC_1: karbytes2026_2 # finalized >25gb collection named karbytes_nexus
+
+The third disc is "unlocked" until that disc is deemed to be complete by karbytes. 
+
+Details about the third disc are as follows:
+
+DISC_2: karbytes2026_3 (or eventually possibly a later version (e.g. karbytes2026_4, karbytes2026_5)) # finalized >25gb collection named karbytes_refinement
+
+* * *
+
+KARBYTES (First Three M_DISC Contents Lists):
+
+DISC_0: karbytes_origins
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2025_22/
+
+DISC_1: karbytes_nexus
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_2/
+
+DISC_2: karbytes_refinement (karbytes_refinement_[02may2026])
+https://karbytesforlifeblog.wordpress.com/mdisc_karbytes2026_3/

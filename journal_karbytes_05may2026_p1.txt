@@ -1,0 +1,71 @@
+/**
+ * file: journal_karbytes_05may2026_p1.txt
+ * type: plain-text
+ * date: 26_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following list of karbytes M_DISCs describes the contents of the time capsule mentioned in the web page at the following Uniform Resource Locator (and that time capsule contains four spindles such that each spindle contains at least three copies of DISC_B, DISC_C, and DISC_D): https://karbytesforlifeblog.wordpress.com/journal_karbytes_20april2026/
+
+Note that the diagram and description of that diagram in the aforementioned web page is not accurate. Each one of the four aforementioned spindles in the actual time capsule contains...
+
+(0) three or more copies of karbytes_nexus_[14apr2026],
+
+(1) three or more copies of karbytes2026_2,
+
+(2) three or more copies of karbytes2025_22, and
+
+(3) three or more copies of karbytes_refinement_[03may2026].
+
+* * *
+
+[plain-text]
+
+//------------------------------------------
+// Some karbytes M_DISCs...
+//------------------------------------------
+
+DISC_A := {
+    TOP_LEVEL_FOLDER := karbytes_refinement_[04may2026]. // contains 3 items 
+}.
+
+karbytes_refinement_[04may2026] := {
+    TOP_LEVEL_FOLDER := [
+        karbytes2026_3, // contains 13 items (last updated 24_APRIL_2026)
+        karbytes_kernel_[24apr2026], // contains 12 items (last updated 24_APRIL_2026)
+        projects-main_26april2026.zip, // contains 7 items when decompressed (last updated 25_APRIL_2026)
+    ].
+}.
+
+//------------------------------------------
+
+DISC_B := {
+    TOP_LEVEL_FOLDER := karbytes_refinement_[03may2026]. // contains 3 items 
+}.
+
+karbytes_refinement_[03may2026] := {
+    TOP_LEVEL_FOLDER := [
+        karbytes2026_3, // contains 13 items (last updated 24_APRIL_2026)
+        karbytes_kernel_[24apr2026], // contains 12 items (last updated 24_APRIL_2026)
+        projects-main_25april2026.zip, // contains 2 items when decompressed (last updated 24_APRIL_2026)
+    ].
+}.
+
+//------------------------------------------
+
+DISC_C := {
+    TOP_LEVEL_FOLDER := karbytes2026_2. // contains 40 items (last updated 24_APRIL_2026)
+}.
+
+//------------------------------------------
+
+DISC_D := {
+    TOP_LEVEL_FOLDER := karbytes2025_22. // contains 163 items (last updated 16_NOVEMBER_2025)
+}.
+
+//------------------------------------------
+// End of "Some karbytes M_DISCs..."
+//------------------------------------------
+
+[end plain-text]

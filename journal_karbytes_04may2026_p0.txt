@@ -1,0 +1,43 @@
+/**
+ * file: journal_karbytes_04may2026_p0.txt
+ * type: plain-text
+ * date: 26_APRIL_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+This journal entry was initially created on 25_APRIL_2026 and hosted in the public GitHub repository named projects under the GitHub user account @informationcrystals.
+
+(The previous journal entry (which is named journal_karbytes_03may2026_p0.txt) was initially created on 24_APRIL_2026 and hosted in the public GitHub repository named projects under the GitHub user account @informationcrystals).
+
+Both of those journal entries are expected by karbytes to (a) remain plain-text only (i.e. have no HTML "enhanced" counterpart) and (b) remain out of the canon karbytes GitHub repositories and WordPress dot Com websites until after 11:59PM Pacific Standard Time on 04_MAY_2026.
+
+(The canon karbytes encompasses (some of the GitHub repositories) hosted on the GitHub user accounts named @karlinarayberinger primarily and @karbytessupporter secondarily. @karlinarayberinger is the official karbytes content source. @karbytessupporter is a mirror to the official karbytes content and also an extender of it).
+
+(The canon karbytes encompasses all of the web pages of the websites named Karlina Object dot WordPress dot Com and Karbytes For Life Blog dot WordPress dot Com. The Uniform Resource Locator (URL) of Karlina Object dot WordPress dot Com is as follows: https://karlinaobject.wordpress.com/. The Uniform Resource Locator of Karbytes For Life Blog dot WordPress dot Com is as follows: https://karbytesforlifeblog.wordpress.com/).
+
+* * *
+
+On 25_APRIL_2026 at appromimately 4:30PM Pacific Standard Time, karbytes finished assembling the M_DISCs for the time capsule discussed in the following plain-text journal entry file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/journal_karbytes_03may2026_p0.txt
+
+The time capsule contains at least three copies of each of the following M_DISC types (per spindle (and the time capsule contains exactly four of such spindles)):
+
+DISC_0: karbytes_origins
+
+DISC_1: karbytes_nexus
+
+DISC_2: karbytes_refinement (karbytes_refinement_[03may2026])
+
+karbytes_refinement_[03may2026] contains a version of the aforementioned journal entry (i.e. journal_karbytes_03may2026_p0.txt) which has DAY_MONTH_YEAR in place of the official date on which the aforementioned time capsule was buried. That initial draft of that journal entry is not part of the canon karbytes but is part of the aforementioned @informationcrystals public GitHub repository named projects.
+
+karbytes_refinement_[03may2026] also contains a simple two-line plain-text file named temp.txt which stores just the raw GitHub file URLs of the @informationcrystals hosted journal entry and that temp.txt file.
+
+Finally, karbytes_refinement_[03may2026] contains all of what is determined to be the latest karbytes kernel files (at 11:59PM Pacific Standard Time on 24_APRIL_2026) and the micro-directory named KARLINA_OBJECT_extension_pack_63 as that micro-directory is configured at 11:59PM Pacific Standard Time on 24_APRIL_2026.
+
+Information about what constitutes the "karbytes kernel" is available in the following plain-text file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_62/main/karbytes_kernel_[20apr2026]_contents.txt
+
+* * *
+
+karbytes made its own "room copy" of the aforementioned time capsule spindles to store in a microwave oven. A picture of that packaged M_DISC stack is available at the following URL: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/microwave_oven_mdisc_copies_karbytes_25apr2026_p0.jpg
+
+(A picture which emphasizes the distinct M_DISC "chapters" of karbytes in the aforementioned M_DISC stack is available at the following URL: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_63/main/microwave_oven_mdisc_copies_karbytes_25apr2026_p1.jpg).
