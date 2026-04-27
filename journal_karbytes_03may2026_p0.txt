@@ -1,7 +1,7 @@
 /**
  * file: journal_karbytes_03may2026_p0.txt
  * type: plain-text
- * date: 24_APRIL_2026
+ * date: 27_APRIL_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -10,7 +10,7 @@ I included three M_DISC copies per spindle of karbytes_refinement_[02may2026] in
 
 https://karbytesforlifeblog.wordpress.com/journal_karbytes_20april2026/
 
-That time capsule was buried at the longitude-latitude Earth coordinates which appear on that web page on DAY_MONTH_YEAR.
+That time capsule was buried at the longitude-latitude Earth coordinates which appear on that web page on 26_APRIL_2026.
 
 Note that karbytes_refinement_[02may2026] refers to the version of (the third M_DISC of) karbytes which was "crystalized" at 11:59PM Pacific Standard Time on 24_APRIL_2026.
 
