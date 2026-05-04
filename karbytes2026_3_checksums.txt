@@ -10,7 +10,7 @@ file_0: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // SHA-256
 
 file_1: KARBYTES_FOR_LIFE_BLOG-main_03may2026.zip // SHA-256: d517f8651af449177e2888767cf46b45922aa742a75ef8dc329302afd1e753a2
 
-file_2: KARLINA_OBJECT_extension_pack_63-main_03may2026.zip // SHA-256: aa4053cc42cd4c32247861cf488deb3961144aac246afdb6c7654ea7405c3546
+file_2: KARLINA_OBJECT_extension_pack_63-main_03may2026.zip // SHA-256: 0e251645138d81575a9657b05ef9ebc1ebf8dfd8584b361f8afd0a2a4be5bf1f
 
 file_3: KARLINA_OBJECT_APPS-main.zip // SHA-256: ef6c27b9ff75bc56b23e881d1766791827fad78e2f0fbc62e0f89bf02c50db3c
 
