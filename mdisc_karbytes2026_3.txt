@@ -502,7 +502,7 @@ karbytes2026_3: // folder contains exactly 14 files (approximately 1978.72 megab
 
     - zip_file_8: KARBYTES_BLOG_APPS_github_hosted_website-main_29march2026.zip // 72.3  megabytes
 
-    - zip_file_9: KARLINA_OBJECT_extension_pack_63-main_04may2026.zip // 761.7 megabytes
+    - zip_file_9: KARLINA_OBJECT_extension_pack_63-main_04may2026.zip // 638.5 megabytes
 
     - zip_file_10: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
